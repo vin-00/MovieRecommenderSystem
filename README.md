@@ -3,6 +3,8 @@
 ## Overview
 The **Movie Recommender System** is a content-based recommendation application built using **Streamlit**. It allows users to enter a movie name and specify the number of recommendations they want. The system then suggests movies based on similarities in genres, director, actors, and tags.
 
+![image](https://github.com/user-attachments/assets/570b56c0-5ab3-46c1-bf3a-39dab2760d03)
+
 ## Features
 - Simple and user-friendly interface powered by **Streamlit**
 - Content-based recommendation system
